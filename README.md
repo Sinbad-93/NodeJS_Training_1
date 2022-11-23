@@ -13,3 +13,10 @@ Exercise 2 - detect file change with fs.watch()
 Exercise 3 - 2 asynchronous operations with one stream. 
 Using callback and event for manage this 2 asynchronous.
 Using fs.stat() for (time) measure of progress in %, fs.createReadStream().
+
+Exercise 4 - work on process core module of node. 
+process.stdin / process.stdout 
+work exit/end of process -> process.on(exit)
+
+Exercise 5 - Basic JEST reminder, 
+npm i jest npm i express launch "npm test"
